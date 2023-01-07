@@ -5,7 +5,9 @@
 
 [![Github](https://img.shields.io/github/followers/Ln3242?label=Follow&style=social)](https://github.com/rickstaa)
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ln3242&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-light-mode-only" alt="Ln3242 Staa's Github stats" />
+<!-- Social button 1 -->
+<!-- Dark Mode -->
+<a href="https://discord.gg/vNHfjWvWcn-dark-mode-only">
+<img src="https://img.shields.io/discord/700321498023329813?style=for-the-badge&logo=discord&labelColor=000&color=FFF#gh-dark-mode-only" alt="Ask me anything">
 </a>
-</div>
+&nbsp;
